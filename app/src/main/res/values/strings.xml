@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NetworkCallLibraryExample</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="first_screen_label">First Screen</string>
+    <string name="second_screen_label">Second Screen</string>
+
+</resources>
